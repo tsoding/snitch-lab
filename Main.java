@@ -6,6 +6,7 @@ public class Main {
         // TODO(#29): Fix whole PHP
         // TODO(#30): Fix 1um6okote's brain
         // TODO(#31): make kidneys legal again
+        // TODO(#32): make asm a scripting language again
         System.out.println("Hello, World!");
     }
 }
