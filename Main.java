@@ -7,6 +7,7 @@ public class Main {
         // TODO(#30): Fix 1um6okote's brain
         // TODO(#31): make kidneys legal again
         // TODO(#32): make asm a scripting language again
+        // TODO(#33): make go more typesafe OMEGALUL
         System.out.println("Hello, World!");
     }
 }
