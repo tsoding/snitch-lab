@@ -4,7 +4,7 @@ public class Main {
         // TODO(#27): 1um6okote's diploma
         // TODO(#28): rewrite in rust
         // TODO(#29): Fix whole PHP
-        // TODO: Fix 1um6okote's brain
+        // TODO(#30): Fix 1um6okote's brain
         System.out.println("Hello, World!");
     }
 }
