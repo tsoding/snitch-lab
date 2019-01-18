@@ -3,3 +3,5 @@
 A dummy repo for manual testing of [snitch]
 
 [snitch]: https://github.com/tsoding/snitch
+
+<!-- TODO(#43): testing HTML comments transformation -->
