@@ -5,7 +5,6 @@ public class Main {
         // Bar
         // Baz
         // TODO(#40): Foo Bar
-        // TODO(#41): Test Test
         System.out.println("Hello, World!");
     }
 }
