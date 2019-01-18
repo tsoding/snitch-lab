@@ -1,5 +1,8 @@
+title:
+  transforms:
+    - match: (.*) \-\-\>
 keywords:
-    - TODO
-    - FIXME
-    - "@todo"
-    - XXX
+  - TODO
+  - FIXME
+  - "@todo"
+  - XXX
