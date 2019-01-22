@@ -5,7 +5,7 @@ public class Main {
     // lowercase/miniscules, then the opposite of that must be a word
     // whose first letter is in lowercase/miniscule and any following
     // letters are in uppercase/majuscules.
-    // TODO: Foo Bar
+    // TODO(#48): Foo Bar
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
