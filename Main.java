@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // TODO(#86): quit smoking
-        // TODO: Magic
+        // TODO(#87): Magic
         // TODO: install gentoo
         // TODO: prove Rieman Hypothesis
         // TODO: start drinking
