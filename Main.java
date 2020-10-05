@@ -3,7 +3,7 @@ public class Main {
         // TODO(#82): submit todos
         // TODO(#83): you should ask money for that Kapp
         // TODO(#84): error handling?
-        // TODO: rewrite in haskell
+        // TODO(#85): rewrite in haskell
         System.out.println("Hello, World!");
     }
 }
