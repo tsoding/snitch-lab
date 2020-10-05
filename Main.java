@@ -4,7 +4,6 @@ public class Main {
         // TODO(#87): Magic
         // TODO(#88): install gentoo
         // TODO(#89): prove Rieman Hypothesis
-        // TODO(#90): start drinking
         System.out.println("Hello, World!");
     }
 }
