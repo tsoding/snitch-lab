@@ -4,7 +4,4 @@ public class Main {
         // TODOOO(#112): second
         System.out.println("Hello, World!");
     }
-    // TODOOOOOOOOO(#110): third
-    // this is a body
-    // pow pow pow
 }
