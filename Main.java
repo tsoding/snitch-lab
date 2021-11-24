@@ -4,5 +4,4 @@ public class Main {
         // TODO(#108): hello
         System.out.println("Hello, World!");
     }
-    // TODO(#109): world
 }
